@@ -48,16 +48,17 @@ section p{
 .akislar ul{
     list-style: none;
     text-align: center;
-    column-count: 3;
 }
 .akislar li{
     font-size: 15px;
     font-weight: 500;
     text-transform: uppercase;
     color: 	#79bd9a;
+    margin-bottom: 30px;
 }
 .akislar ul img{
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 5px;
 }
