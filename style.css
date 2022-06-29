@@ -1,4 +1,4 @@
-body {
+.body {
     font-family: 'Poppins', sans-serif;
 }
 .header {
@@ -30,9 +30,9 @@ body {
 .nav ul .active a{
     text-decoration: underline;
 }
-.nav ul a:hover{
+/* .nav ul a:hover{
     
-}
+} */
 section h1{
     color: #7f3f98;
     text-align: center;
